@@ -1,0 +1,4 @@
+===== FILE ANALYSIS REPORT =====
+Total Lines      : 2
+Total Words      : 13
+Total Characters : 73
