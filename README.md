@@ -1,2 +1,21 @@
-# Codveda-Level2-Task2
-This repository contains all the tasks completed for the CodSoft Web Development Internship. It includes projects like portfolio website, landing page, and other assigned tasks.
+# Codveda Level 2 Task 2
+
+## File Handling - Reading and Writing to a File
+
+This project reads data from a text file, processes the content, and writes the analysis result into another file.
+
+## Features
+- Read data from file
+- Count lines
+- Count words
+- Count characters
+- Write output to another file
+- Exception Handling
+
+## Technologies Used
+- Java
+- FileReader
+- BufferedReader
+- FileWriter
+- BufferedWriter
+- Exception Handling
